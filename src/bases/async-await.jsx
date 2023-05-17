@@ -31,6 +31,6 @@ const getHeroeByIdAsyc2 = async (id) => {
     }
 }
 
-getHeroeByIdAsyc2(2)
+getHeroeByIdAsyc2(3)
 
     
